@@ -11,7 +11,7 @@ Link -> [https://igorgjn.github.io/linktree/](https://igorgjn.github.io/linktree
 16 de Julho de 2022
 
 ## 🎨 Layout
-<code><img height="50%" src="image/layout.png" alt="Layout do site"/></code>
+<code><img height="300px" src="image/layout.png" alt="Layout do site"/></code>
 <!--
 ## 🆕 Novidades
 Layout responsivo para mobile. 
