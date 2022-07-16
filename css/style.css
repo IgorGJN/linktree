@@ -29,15 +29,20 @@ img.perfil {
     border-radius: 50%;
 }
 
+.perfil:hover {
+    border: 5px solid var(--blue);
+}
+
 main img {
     width: 20vw;
-    border-radius: 50%;
-    box-shadow: 3px 3px var(--yellon);
+    border-radius: 50px;
+    box-shadow: 4px 4px var(--yellon);
 }
 
 main img:hover {
     transform: scale(1.2);
     transition: 0.5s;
+    box-shadow: 4px 4px var(--blue);
 }
 
 .container {
