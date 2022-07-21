@@ -27,22 +27,26 @@ img.perfil {
     width: 10vw;
     border: 5px solid var(--yellon);
     border-radius: 50%;
+    opacity: 80%
 }
 
 .perfil:hover {
     border: 5px solid var(--blue);
+    opacity: 100%;
 }
 
 main img {
     width: 20vw;
     border-radius: 50px;
     box-shadow: 4px 4px var(--yellon);
+    opacity: 80%;
 }
 
 main img:hover {
     transform: scale(1.2);
     transition: 0.5s;
     box-shadow: 4px 4px var(--blue);
+    opacity: 100%;
 }
 
 .container {
